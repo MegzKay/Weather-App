@@ -1,0 +1,13 @@
+#container{
+	text-align: center;
+}
+#weather_img{
+	margin-left: 5px;
+}
+#error{
+	color:red;
+	display:hidden;
+}
+#map{
+	height:500px;
+}
